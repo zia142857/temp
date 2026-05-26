@@ -1,0 +1,14 @@
+[
+  {
+    "username": "your_account1@outlook.com",
+    "password": "your_password1",
+    "otpauth": "otpauth://totp/xxx1",
+    "proxy": ""
+  },
+  {
+    "username": "your_account2@hotmail.com",
+    "password": "your_password2",
+    "otpauth": "otpauth://totp/xxx2",
+    "proxy": "socks5://127.0.0.1:1080"
+  }
+]
